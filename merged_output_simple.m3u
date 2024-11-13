@@ -559,23 +559,11 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1  tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png"  group-title="💓专享卫视",东方卫视
 http://124.231.213.16:9999/tsfile/live/0107_1.m3u8
-#EXTINF:-1  tvg-name="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png"  group-title="💓专享卫视",东南卫视
-http://124.231.213.16:9999/tsfile/live/0137_1.m3u8
-#EXTINF:-1  tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png"  group-title="💓专享卫视",天津卫视
-http://124.231.213.16:9999/tsfile/live/0135_1.m3u8
 #EXTINF:-1  tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png"  group-title="💓专享卫视",广东卫视
 http://124.231.213.16:9999/tsfile/live/0125_1.m3u8
-#EXTINF:-1  tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.com/tv/新疆卫视.png"  group-title="💓专享卫视",新疆卫视
-http://124.231.213.16:9999/tsfile/live/0110_1.m3u8
-#EXTINF:-1 group-title="💓专享卫视",旅游卫视
-http://124.231.213.16:9999/tsfile/live/0114_1.m3u8
 #EXTINF:-1  tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png"  group-title="💓专享卫视",江苏卫视
 http://124.231.213.16:9999/tsfile/live/0127_1.m3u8
-#EXTINF:-1  tvg-name="河北卫视" tvg-logo="https://live.fanmingming.com/tv/河北卫视.png"  group-title="💓专享卫视",河北卫视
-http://124.231.213.16:9999/tsfile/live/0117_1.m3u8
 #EXTINF:-1  tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png"  group-title="💓专享卫视",湖北卫视
-http://124.231.213.16:9999/tsfile/live/0132_1.m3u8
-mingming.com/tv/北京卫视.png"  group-title="💓专享卫视",北京卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/1.m3u8
 #EXTINF:-1  tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png"  group-title="💓专享卫视",天津卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010069/1.m3u8
@@ -593,8 +581,6 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010099/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010068/1.m3u8
 #EXTINF:-1  tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png"  group-title="💓专享卫视",江苏卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010059/1.m3u8
-#EXTINF:-1  tvg-name="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png"  group-title="💓专享卫视",江西卫视
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010060/1.m3u8
 #EXTINF:-1  tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png"  group-title="💓专享卫视",浙江卫视
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010070/1.m3u8
 #EXTINF:-1  tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png"  group-title="💓专享卫视",湖北卫视
